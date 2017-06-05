@@ -1,2 +1,2 @@
 # webpack-complete
-A Webpack + router + resource + Test examples
+A Webpack + router + resource + Test examples (VueJS Template)
